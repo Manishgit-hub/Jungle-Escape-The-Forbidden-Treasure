@@ -43,6 +43,6 @@ This project helped me gain practical experience in:
 
 ## Author
 
-*Manish Choudhary
-*B.Tech CSE
-*Lovely Professional University
+Manish Choudhary
+B.Tech CSE
+Lovely Professional University
